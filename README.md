@@ -24,5 +24,6 @@ Contribuições são bem-vindas! Se você quiser melhorar ou adicionar recursos 
 
 Autor
 Nome: Júlia Zimmer
+
 Licença
 Este projeto está licenciado sob a Licença MIT.
